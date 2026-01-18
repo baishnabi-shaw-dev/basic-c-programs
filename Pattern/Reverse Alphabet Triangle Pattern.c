@@ -9,3 +9,12 @@ int main()
 	printf("\n");
 	}
 }
+/*
+A
+BA
+CBA
+DCBA
+EDCBA
+FEDCBA
+GFEDCBA
+*/
