@@ -15,7 +15,7 @@
   |--OctalToDecimal
   |--DecimalToHexadecimal
 
-3. Numbers
+3.Numbers
    ------
    |--Adams number
    |--Armstrong number
