@@ -1,6 +1,4 @@
 # basic-c-programs
-# basic-c-programs
-# basic-c-programs
 “The directory consists of nine folders, each of which contains various types of basic C programming examples.”
 
 1.Array
