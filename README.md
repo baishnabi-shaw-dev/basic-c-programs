@@ -4,8 +4,11 @@
 1.Array
   ------
   |--Double dimmension
+  
      |--90° left rotate n times
+     
      |--90° rotate right n times
+     
      |--90° rotate left
      |--90° rotate right
      |--180° rotate
