@@ -61,3 +61,26 @@ int main()
 		printf("\n");
     }
 }
+/*
+Enter row: 3
+Enter column: 3
+Enter the elements
+5
+7
+8
+5
+3
+8
+9
+4
+5
+Actual matrix
+5  7  8
+5  3  8
+9  4  5
+Enter the nth times to rotate: 1
+Rotate 90 degree right
+9  5  5
+4  3  7
+5  8  8
+*/
