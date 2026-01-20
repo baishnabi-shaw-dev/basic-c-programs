@@ -1,7 +1,7 @@
 # basic-c-programs
 “The directory consists of nine folders, each of which contains various types of basic C programming examples.”
 
-1.Array
+1.📂Array
   ------
   |--Double dimmension
   
@@ -26,7 +26,7 @@
   |--Single dimmension
   
 
-2.Convert
+2.📂Convert
   ------
   |--BinaryToDecimal
  
