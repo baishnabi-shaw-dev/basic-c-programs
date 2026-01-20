@@ -2,20 +2,17 @@
 “The directory consists of nine folders, each of which contains various types of basic C programming examples.”
 
 1.📂Array
-  ------
-  |--Double dimmension
-  
-       |--90° left rotate n times
+    📂Double dimmension
+       ├──90° left rotate n times
+       ├──90° rotate right n times
        
-       |--90° rotate right n times
+       ├──90° rotate left
        
-       |--90° rotate left
+       ├──90° rotate right
        
-       |--90° rotate right
+       ├──180° rotate
        
-       |--180° rotate
-       
-       |--All types of rotatation
+       ├──All types of rotatation
        
        |--Anti-clockwise filling
        
