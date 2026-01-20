@@ -2,8 +2,11 @@
 “The directory consists of nine folders, each of which contains various types of basic C programming examples.”
 
 1.📂Array
-    📂Double dimmension
+
+    🗂️Double dimmension
+
        ├──90° left rotate n times
+
        ├──90° rotate right n times
        
        ├──90° rotate left
@@ -14,26 +17,26 @@
        
        ├──All types of rotatation
        
-       |--Anti-clockwise filling
+       ├──Anti-clockwise filling
        
-       |--Boundry elements 
+       ├──Boundry elements 
        
-  |--High level
+  🗂️High level
   
-  |--Single dimmension
+  🗂️Single dimmension
   
 
 2.📂Convert
-  ------
-  |--BinaryToDecimal
+
+  ├──BinaryToDecimal
  
-  |--DecimalToBinary
+  ├──DecimalToBinary
   
-  |--DecimalToOctal
+  ├──DecimalToOctal
   
-  |--OctalToDecimal
+  ├──OctalToDecimal
   
-  |--DecimalToHexadecimal
+  ├──DecimalToHexadecimal
 
 3.📂Numbers
    ------
