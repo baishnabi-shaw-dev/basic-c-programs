@@ -46,6 +46,10 @@ and practice topic-wise.
 - All Types of Rotation  
 - Anti-clockwise Filling  
 - Boundary Elements  
+- Boundary Sort Elements  
+- Clock-wise Filling  
+- Column Sort  
+- Diagonal Elments  
 
 </details>
 
@@ -113,4 +117,4 @@ and practice topic-wise.
 ## ⚙️ How to Run the Programs
 
 1. Open terminal / command prompt  
-2. Compile the program:
+2. Compile the program:  
