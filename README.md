@@ -51,7 +51,9 @@ and practice topic-wise.
 - Column Sort  
 - Diagonal Elments  
 - Flip  
-- Half right and left diagonal
+- Half right and left diagonal  
+- Mirror  
+- Multiplication
 
 
 </details>
