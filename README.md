@@ -50,6 +50,9 @@ and practice topic-wise.
 - Clock-wise Filling  
 - Column Sort  
 - Diagonal Elments  
+- Flip  
+- Half right and left diagonal
+
 
 </details>
 
