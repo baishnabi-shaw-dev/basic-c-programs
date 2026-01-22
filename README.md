@@ -54,12 +54,7 @@ and practice topic-wise.
 - Half right and left diagonal  
 - Mirror  
 - Multiplication
-- Non-Boundary Elements  
-- Non-Boundary Sort Elements
-- Octal to Decimal
-- One and Zero
-- Rotate using Function
-- Row Sort  
+- Non-Boundry Elements
 
 </details>
 
