@@ -57,6 +57,7 @@ and practice topic-wise.
 - Non-Boundary Elements  
 - Non-Boundary Sort Elements
 - Octal to Decimal
+- One and Zero
 
 </details>
 
