@@ -58,6 +58,9 @@ and practice topic-wise.
 - Non-Boundary Sort Elements
 - Octal to Decimal
 - One and Zero
+- Rotate using Function
+- 
+- 
 
 </details>
 
