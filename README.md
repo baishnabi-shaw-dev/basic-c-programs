@@ -56,6 +56,7 @@ and practice topic-wise.
 - Multiplication
 - Non-Boundary Elements  
 - Non-Boundary Sort Elements
+- Octal to Decimal
 
 </details>
 
