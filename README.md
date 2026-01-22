@@ -54,7 +54,8 @@ and practice topic-wise.
 - Half right and left diagonal  
 - Mirror  
 - Multiplication
-- Non-Boundry Elements
+- Non-Boundary Elements  
+- Non-Boundary Sort Elements
 
 </details>
 
