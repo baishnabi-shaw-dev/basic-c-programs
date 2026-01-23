@@ -57,6 +57,8 @@ and practice topic-wise.
 - Non-Boundry Elements  
 - Non-Boundry Elements sort  
 - Octal to decimal  
+- One and Zero Matrix  
+-
 
 
 </details>
