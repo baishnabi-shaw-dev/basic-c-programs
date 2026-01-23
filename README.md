@@ -59,6 +59,8 @@ and practice topic-wise.
 - Octal to decimal  
 - One and Zero Matrix  
 - Rotate Function  
+- Row sort  
+- 
 
 
 
