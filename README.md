@@ -62,7 +62,9 @@ and practice topic-wise.
 - Row sort  
 - Saddle Point  
 - Sorting  
-- 
+- Sum of Row and column  
+- Symmetric  
+
 
 
 
