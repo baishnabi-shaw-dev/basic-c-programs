@@ -58,7 +58,8 @@ and practice topic-wise.
 - Non-Boundry Elements sort  
 - Octal to decimal  
 - One and Zero Matrix  
--
+- Rotate Function  
+
 
 
 </details>
