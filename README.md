@@ -74,12 +74,7 @@ and practice topic-wise.
 <details>
 <summary><b>📁 Single Dimension</b></summary>
 
-- Date (Canlender)  
-- Day with Date  
-- Dice  
-- Double Ended Queue  
-- Room Booking  
-- Trapping Rain Water  
+ 
 
 
 </details>
@@ -87,7 +82,12 @@ and practice topic-wise.
 <details>
 <summary><b>📁 High Level</b></summary>
 
-- Advanced array-based programs  
+- Date (Canlender)  
+- Day with Date  
+- Dice  
+- Double Ended Queue  
+- Room Booking  
+- Trapping Rain Water 
 
 </details>
 
