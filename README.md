@@ -76,7 +76,9 @@ and practice topic-wise.
 
 - Date (Canlender)  
 - Day with Date  
-- Dice
+- Dice  
+- Double Ended Queue
+
 
 
 </details>
