@@ -74,8 +74,10 @@ and practice topic-wise.
 <details>
 <summary><b>📁 Single Dimension</b></summary>
 
-- One-dimensional array programs  
-- Searching and basic operations  
+- Date (Canlender)  
+- Day with Date  
+- Dice
+
 
 </details>
 
