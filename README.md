@@ -74,7 +74,9 @@ and practice topic-wise.
 <details>
 <summary><b>📁 Single Dimension</b></summary>
 
-- Array Deleting Element   
+- Array Deleting Element  
+- Array Insert+Delete  
+ 
 
  
 
