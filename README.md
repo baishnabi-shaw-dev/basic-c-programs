@@ -79,6 +79,7 @@ and practice topic-wise.
 - Array Insert Element  
 - Decending order  
 - Dublicate Element  
+- even odd index  
 -
 
  
