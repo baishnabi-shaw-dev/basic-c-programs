@@ -80,7 +80,8 @@ and practice topic-wise.
 - Decending order  
 - Dublicate Element  
 - even odd index  
--
+- Frequency  
+
 
  
 
