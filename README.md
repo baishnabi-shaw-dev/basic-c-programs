@@ -83,6 +83,7 @@ and practice topic-wise.
 - Frequency  
 - Highest frequecy    
 - Idempotent Matrix  
+- Maximum Product Subarray  
 
 
  
