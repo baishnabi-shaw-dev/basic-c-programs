@@ -81,7 +81,8 @@ and practice topic-wise.
 - Dublicate Element  
 - even odd index  
 - Frequency  
-- Highest frequecy  
+- Highest frequecy    
+- Idempotent Matrix  
 
 
  
