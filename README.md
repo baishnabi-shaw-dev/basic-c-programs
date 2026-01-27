@@ -84,6 +84,7 @@ and practice topic-wise.
 - Highest frequecy    
 - Idempotent Matrix  
 - Maximum Product Subarray  
+- Merge array  
 
 
  
