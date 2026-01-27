@@ -87,7 +87,8 @@ and practice topic-wise.
 - Merge array  
 - Missing element  
 - negative elements  
--
+- palindrome elements  
+- 
 
 
  
