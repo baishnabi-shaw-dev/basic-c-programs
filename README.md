@@ -88,7 +88,9 @@ and practice topic-wise.
 - Missing element  
 - negative elements  
 - palindrome elements  
-- 
+- palindrome array  
+- Prime Elements  
+-
 
 
  
