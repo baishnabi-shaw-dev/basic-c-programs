@@ -91,6 +91,7 @@ and practice topic-wise.
 - palindrome array  
 - Prime Elements  
 - Remove Dublicate Elements  
+- Reverse Elements  
 - 
 
 
