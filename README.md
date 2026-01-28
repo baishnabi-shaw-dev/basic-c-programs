@@ -93,6 +93,8 @@ and practice topic-wise.
 - Remove Dublicate Elements  
 - Reverse Elements  
 - reverseone  
+- Second Greatest Element  
+
 
 
  
