@@ -92,7 +92,7 @@ and practice topic-wise.
 - Prime Elements  
 - Remove Dublicate Elements  
 - Reverse Elements  
-- 
+- reverseone  
 
 
  
