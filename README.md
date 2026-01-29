@@ -94,6 +94,8 @@ and practice topic-wise.
 - Reverse Elements  
 - reverseone  
 - Second Greatest Element  
+- Shift items  
+ 
 
 
 
