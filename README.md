@@ -96,6 +96,8 @@ and practice topic-wise.
 - Second Greatest Element  
 - Shift items  
 - Shifting zero  
+- sihift one position  
+- 
 
 
 
