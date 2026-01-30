@@ -97,7 +97,8 @@ and practice topic-wise.
 - Shift items  
 - Shifting zero  
 - shift one position  
-- sum of elemnts
+- sum of elemnts  
+- sum pair  
 
 
 
