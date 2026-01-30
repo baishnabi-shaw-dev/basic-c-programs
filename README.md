@@ -100,7 +100,8 @@ and practice topic-wise.
 - sum of elemnts  
 - sum pair  
 - Three largest  
--
+- Triplet pair  
+
 
 
 
