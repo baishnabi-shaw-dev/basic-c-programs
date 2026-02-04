@@ -100,7 +100,7 @@ and practice topic-wise.
 - sum of elemnts  
 - sum pair  
 - Three largest  
-- Triplet pair  
+- Triplet pair   
 
 
 
@@ -152,6 +152,8 @@ and practice topic-wise.
 - Palindrome Number  
 - Perfect Number  
 - Prime Palindrome Number  
+- 
+
 
 ---
 
