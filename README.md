@@ -155,7 +155,7 @@ and practice topic-wise.
 - Prime Number  
 - Pronic Number  
 - Smith Number  
--
+- Spy Number
 
 
 ---
