@@ -154,7 +154,8 @@ and practice topic-wise.
 - Prime Palindrome Number  
 - Prime Number  
 - Pronic Number  
-- 
+- Smith Number  
+-
 
 
 ---
