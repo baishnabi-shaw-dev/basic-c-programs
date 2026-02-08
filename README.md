@@ -152,7 +152,7 @@ and practice topic-wise.
 - Palindrome Number  
 - Perfect Number  
 - Prime Palindrome Number  
-- 
+- Prime Number
 
 
 ---
