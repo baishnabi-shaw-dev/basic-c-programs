@@ -160,7 +160,9 @@ and practice topic-wise.
 - Triad Number  
 - Triautomorphic Number  
 - Trimorphic Number  
-- Twin-prime Number
+- Twin-prime Number  
+- Twisted Prime Number  
+-
 
 
 ---
