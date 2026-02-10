@@ -163,7 +163,7 @@ and practice topic-wise.
 - Twin-prime Number  
 - Twisted Prime Number  
 - Ugly Number  
--
+- Unique NUmber
 
 
 ---
