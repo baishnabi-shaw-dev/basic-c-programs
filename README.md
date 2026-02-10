@@ -158,6 +158,7 @@ and practice topic-wise.
 - Spy Number  
 - Sunny Number  
 - Triad Number  
+- Triautomorphic Number  
 - 
 
 
