@@ -156,7 +156,8 @@ and practice topic-wise.
 - Pronic Number  
 - Smith Number  
 - Spy Number  
-- Sunny Number
+- Sunny Number  
+- Triad Number  
 - 
 
 
