@@ -162,6 +162,7 @@ and practice topic-wise.
 - Trimorphic Number  
 - Twin-prime Number  
 - Twisted Prime Number  
+- Ugly Number  
 -
 
 
