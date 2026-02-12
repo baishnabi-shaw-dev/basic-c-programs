@@ -175,7 +175,8 @@ and practice topic-wise.
 - Alphabet Triangle Pattern  
 - Binary Alternating Pattern  
 - Binary Triangle Pattern  
--     
+- Centered Alphabet Pyramid Pattern  
+    
 
 
 ---
