@@ -172,7 +172,9 @@ and practice topic-wise.
 - Alphabet Hourglass Pattern  
 - Alphabet Pyramid Pattern  
 - Alphabet Repetition Triangle Pattern  
-- Alphabet Triangle Pattern    
+- Alphabet Triangle Pattern  
+- Binary Alternating Pattern  
+-    
 
 
 ---
