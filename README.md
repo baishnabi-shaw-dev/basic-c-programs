@@ -174,7 +174,8 @@ and practice topic-wise.
 - Alphabet Repetition Triangle Pattern  
 - Alphabet Triangle Pattern  
 - Binary Alternating Pattern  
--    
+- Binary Triangle Pattern  
+-     
 
 
 ---
