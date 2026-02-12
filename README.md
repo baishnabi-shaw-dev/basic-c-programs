@@ -163,8 +163,12 @@ and practice topic-wise.
 - Twin-prime Number  
 - Twisted Prime Number  
 - Ugly Number  
-- Unique NUmber
+- Unique NUmber  
 
+
+### 4️⃣ Patterns  
+
+- Alphabet Diamond Pattern
 
 ---
 
