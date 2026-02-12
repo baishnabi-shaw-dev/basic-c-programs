@@ -168,7 +168,8 @@ and practice topic-wise.
 
 ### 4️⃣ Patterns  
 
-- Alphabet Diamond Pattern
+- Alphabet Diamond Pattern  
+- Alphabet Hourglass Pattern
 
 ---
 
