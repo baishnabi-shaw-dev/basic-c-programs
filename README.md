@@ -171,7 +171,8 @@ and practice topic-wise.
 - Alphabet Diamond Pattern  
 - Alphabet Hourglass Pattern  
 - Alphabet Pyramid Pattern  
--
+- Alphabet Repetition Triangle Pattern  
+
 
 ---
 
