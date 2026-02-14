@@ -178,7 +178,8 @@ and practice topic-wise.
 - Centered Alphabet Pyramid Pattern  
 - Centered Half-Diamond Star Pattern  
 - Centered Mirror Alphabet Pattern   
--  
+- Centered Number Diamond Pattern  
+-
 
     
 
