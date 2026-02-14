@@ -181,6 +181,8 @@ and practice topic-wise.
 - Centered Number Diamond Pattern  
 - Centered Number Pyramid Pattern  
 - Continuous Number Pyramid Pattern  
+- Decreasing Alphabet Pattern  
+-  
 
 
     
