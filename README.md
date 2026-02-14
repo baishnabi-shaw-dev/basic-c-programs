@@ -177,7 +177,8 @@ and practice topic-wise.
 - Binary Triangle Pattern  
 - Centered Alphabet Pyramid Pattern  
 - Centered Half-Diamond Star Pattern  
-- Centered Mirror Alphabet Pattern    
+- Centered Mirror Alphabet Pattern   
+-  
 
     
 
