@@ -183,7 +183,8 @@ and practice topic-wise.
 - Continuous Number Pyramid Pattern  
 - Decreasing Alphabet Pattern  
 - Decreasing Alphabet Stair Pattern  
-- 
+- Decreasing Number Staircase Pattern  
+-
 
 
     
