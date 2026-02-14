@@ -180,7 +180,8 @@ and practice topic-wise.
 - Centered Mirror Alphabet Pattern   
 - Centered Number Diamond Pattern  
 - Centered Number Pyramid Pattern  
--
+- Continuous Number Pyramid Pattern  
+
 
     
 
