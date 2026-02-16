@@ -192,7 +192,8 @@ and practice topic-wise.
 - Double Hollow Pyramid Pattern  
 - Hollow Diamond Star Pattern  
 - Hollow Inverted Right-Angled Star Triangle Pattern  
-- 
+- Hourglass Number Pattern  
+
 
 
     
