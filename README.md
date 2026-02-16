@@ -190,6 +190,7 @@ and practice topic-wise.
 - Diamond Number Pattern  
 - Diamond Star Pattern  
 - Double Hollow Pyramid Pattern  
+- Hollow Diamond Star Pattern  
 - 
 
 
