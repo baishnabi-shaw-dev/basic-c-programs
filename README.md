@@ -191,6 +191,7 @@ and practice topic-wise.
 - Diamond Star Pattern  
 - Double Hollow Pyramid Pattern  
 - Hollow Diamond Star Pattern  
+- Hollow Inverted Right-Angled Star Triangle Pattern  
 - 
 
 
