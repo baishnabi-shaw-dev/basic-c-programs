@@ -188,7 +188,8 @@ and practice topic-wise.
 - Diagonal Incremental Number Pattern  
 - Diamond Half Star Pattern  
 - Diamond Number Pattern  
--
+- Diamond Star Pattern  
+- 
 
 
     
