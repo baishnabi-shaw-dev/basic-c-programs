@@ -189,6 +189,7 @@ and practice topic-wise.
 - Diamond Half Star Pattern  
 - Diamond Number Pattern  
 - Diamond Star Pattern  
+- Double Hollow Pyramid Pattern  
 - 
 
 
