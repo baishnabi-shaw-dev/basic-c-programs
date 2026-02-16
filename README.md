@@ -186,7 +186,9 @@ and practice topic-wise.
 - Decreasing Number Staircase Pattern  
 - Diagonal Fill Pattern
 - Diagonal Incremental Number Pattern  
-- Diamond Half Star Pattern
+- Diamond Half Star Pattern  
+- Diamond Number Pattern  
+-
 
 
     
