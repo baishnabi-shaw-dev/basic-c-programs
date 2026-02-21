@@ -193,7 +193,8 @@ and practice topic-wise.
 - Hollow Diamond Star Pattern  
 - Hollow Inverted Right-Angled Star Triangle Pattern  
 - Hourglass Number Pattern  
-
+- Hourglass Star Pattern  
+-
 
 
     
