@@ -194,6 +194,7 @@ and practice topic-wise.
 - Hollow Inverted Right-Angled Star Triangle Pattern  
 - Hourglass Number Pattern  
 - Hourglass Star Pattern  
+- Increasing Decreasing Number Pattern  
 -
 
 
