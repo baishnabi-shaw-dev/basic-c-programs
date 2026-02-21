@@ -195,6 +195,7 @@ and practice topic-wise.
 - Hourglass Number Pattern  
 - Hourglass Star Pattern  
 - Increasing Decreasing Number Pattern  
+- Indented Mirror Alphabet Pattern  
 -
 
 
