@@ -196,7 +196,8 @@ and practice topic-wise.
 - Hourglass Star Pattern  
 - Increasing Decreasing Number Pattern  
 - Indented Mirror Alphabet Pattern  
--
+- Inverted Number Triangle Pattern  
+- 
 
 
     
