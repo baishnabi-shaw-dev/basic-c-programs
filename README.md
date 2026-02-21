@@ -197,6 +197,7 @@ and practice topic-wise.
 - Increasing Decreasing Number Pattern  
 - Indented Mirror Alphabet Pattern  
 - Inverted Number Triangle Pattern  
+- Inverted Right-Aligned Star Triangle Pattern  
 - 
 
 
